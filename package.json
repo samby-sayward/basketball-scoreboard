@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s008cmlfng",
+  "description": "https://scrimba.com/s008cmlfng/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
