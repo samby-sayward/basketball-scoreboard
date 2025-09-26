@@ -40,7 +40,3 @@ function newGame() {
   homeScore.textContent = hPoints
   guestScore.textContent = gPoints
 }
-
-window.increment = increment
-window.save = save
-window.reset = reset
